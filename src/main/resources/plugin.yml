@@ -1,0 +1,11 @@
+name: WeaponParticles
+version: 1.0
+main: io.github.sman.Main
+api-version: 1.19
+
+commands:
+
+      WPconfig:
+
+            description: Change Weapon Particles Config for the Server
+            usage: /<command>
